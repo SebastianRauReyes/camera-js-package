@@ -1,0 +1,31 @@
+{
+  "name": "dcs",
+  "homepage": "https://www.dynamsoft.com/Products/barcode-recognition-javascript.aspx",
+  "authors": [
+    "Dynamsoft"
+  ],
+  "description": "Dynamsoft Camera SDK provides JavaScript APIs that enable you to easily capture images and documents from webcams within a browser.",
+  "main": "dist/dynamsoft.camera.min.js",
+  "keywords": [
+    "JavaScript SDK",
+    "JavaScript camera",
+    "JavaScript webcam",
+    "web camera SDK",
+    "web camera",
+    "webcam SDK",
+    "OCR",
+    "document scanning"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dynamsoft/Dynamsoft-Camera-SDK"
+  }
+}
